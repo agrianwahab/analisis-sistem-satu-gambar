@@ -1,5 +1,7 @@
+# requirements.txt yang sudah diperbaiki
+
 numpy
-opencv-python
+opencv-python-headless
 pillow
 scikit-learn
 scipy
@@ -7,7 +9,6 @@ scikit-image
 matplotlib
 python-docx
 exifread
-docx2pdf
 streamlit
 plotly
-cv2
+docx2pdf  
