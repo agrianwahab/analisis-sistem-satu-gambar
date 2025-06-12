@@ -12,3 +12,4 @@ exifread
 streamlit
 plotly
 docx2pdf  
+seaborn 
